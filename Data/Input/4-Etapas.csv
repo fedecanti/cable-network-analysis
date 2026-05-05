@@ -1,46 +1,46 @@
 MM,Tabla,ID,Time,Tipo,Tipo1,Tipo2,Tipo3,Tipo4,Descrip,Time_fin,Tiene_averias,Cantidad_averias,Tiempo_a_primer_averia
-MM100003356,Medicion,123,2025-07-10,VLF,Aceptación,Prueba exitosa,,1,VLF-Prueba exitosa,2026-04-29,False,0,
-MM100032036,Medicion,99990814,2025-04-30,TgDelta,Mantenimiento,Riesgo Moderado,Fase 1 (Verde);Fase 2 (Amarillo);Fase 3 (Rojo),1,TgDelta-Riesgo Moderado,2026-04-29,False,0,
-MM101950490,Medicion,498,2025-12-11,VLF,Aceptación,Prueba exitosa,,2,VLF-Prueba exitosa,2026-04-14,True,2,5.0
-MM101950490,Saneamiento,P/MB26-MEMM-00098,2026-04-14,Obra,60 - Cerrada,100.0,2026-04-14 00:00:00,OM,60 - Cerrada-OM-2026-04-14,2026-04-29,False,0,
-MM17500709,Medicion,99990835,2025-05-12,TgDelta,Mantenimiento,Riesgo Alto,Fase 1 (Verde);Fase 2 (Amarillo);Fase 3 (Rojo),1,TgDelta-Riesgo Alto,2025-05-15,False,0,
-MM17500709,Medicion,99990850,2025-05-15,TgDelta,Mantenimiento,Riesgo Alto,Fase 3 (Rojo),1,TgDelta-Riesgo Alto,2025-07-09,True,1,54.0
-MM17500709,Medicion,120,2025-07-09,TgDelta,Mantenimiento,Riesgo Alto1,Fase 1 (Verde);Fase 2 (Amarillo);Fase 3 (Rojo),1,TgDelta-Riesgo Alto1,2025-12-12,False,0,
-MM17500709,Saneamiento,P/MB25-MEMM-00099,2025-12-12,Obra,59 - Finalizada,100.0,2025-12-27 00:00:00,OM,59 - Finalizada-OM-2025-12-27,2025-12-22,False,0,
-MM17500709,Medicion,522,2025-12-22,VCC,Aceptación,Prueba exitosa,,1,VCC-Prueba exitosa,2026-04-29,False,0,
-MM17500963,Medicion,550,2026-01-11,TgDelta,Mantenimiento,Riesgo Bajo,,1,TgDelta-Riesgo Bajo,2026-01-11,False,0,
-MM17500963,Medicion,549,2026-01-11,TgDelta,Mantenimiento,Riesgo Alto1,Fase 1 (Verde);Fase 2 (Amarillo),1,TgDelta-Riesgo Alto1,2026-01-12,False,0,
-MM17500963,Medicion,552,2026-01-12,TgDelta,Mantenimiento,Riesgo Moderado,Fase 1 (Verde);Fase 3 (Rojo),1,TgDelta-Riesgo Moderado,2026-01-13,False,0,
-MM17500963,Medicion,554,2026-01-13,TgDelta,Mantenimiento,Riesgo Alto1,Fase 1 (Verde);Fase 2 (Amarillo),1,TgDelta-Riesgo Alto1,2026-01-23,False,0,
-MM17500963,Saneamiento,P/MB26-MEMM-00030,2026-01-23,Proyecto,Enviado a Acuerdo,0.0,,OM,Enviado a Acuerdo-OM-NaT,2026-04-29,False,0,
-MM17501657,Medicion,99990733,2025-04-02,TgDelta,Mantenimiento,Riesgo Moderado,Fase 2 (Amarillo),1,TgDelta-Riesgo Moderado,2025-04-02,False,0,
-MM17501657,Medicion,99990735,2025-04-02,TgDelta,Mantenimiento,Riesgo Moderado,Fase 3 (Rojo),1,TgDelta-Riesgo Moderado,2025-04-06,False,0,
-MM17501657,Medicion,99990743,2025-04-06,TgDelta,Mantenimiento,Riesgo Moderado,Fase 3 (Rojo),1,TgDelta-Riesgo Moderado,2026-04-29,False,0,
-MM17514909,Saneamiento,P/R124-OIMM-01751,2025-07-10,Obra,60 - Cerrada,100.0,,OM,60 - Cerrada-OM-NaT,2026-04-29,False,0,
-MM17517413,Medicion,99990519,2024-10-17,TgDelta,Mantenimiento,Riesgo Bajo,,1,TgDelta-Riesgo Bajo,2024-11-13,False,0,
-MM17517413,Saneamiento,P/R124-OIMM-02365,2024-11-13,Proyecto,Acordado,0.0,,OM,Acordado-OM-NaT,2024-11-24,True,1,10.0
-MM17517413,Medicion,99990586,2024-11-24,TgDelta,Mantenimiento,Riesgo Bajo,,1,TgDelta-Riesgo Bajo,2024-11-24,False,0,
-MM17517413,Medicion,99990585,2024-11-24,TgDelta,Mantenimiento,Riesgo Bajo,,1,TgDelta-Riesgo Bajo,2024-11-24,False,0,
-MM17517413,Medicion,99990587,2024-11-24,TgDelta,Mantenimiento,Riesgo Bajo,,1,TgDelta-Riesgo Bajo,2026-04-29,False,0,
-MM17526449,Medicion,505,2025-12-16,VCC,Aceptación,Prueba exitosa,,1,VCC-Prueba exitosa,2026-04-29,True,2,36.0
-MM17573733,Medicion,99990301,2024-02-24,VLF,Mantenimiento,Prueba exitosa,,1,VLF-Prueba exitosa,2026-04-29,True,2,721.0
-MM17621841,Medicion,99990078,2022-11-22,VLF,Mantenimiento,Prueba exitosa,,1,VLF-Prueba exitosa,2026-04-29,True,1,195.0
-MM17624697,Medicion,99990057,2022-10-24,VLF,Mantenimiento,Prueba exitosa,,1,VLF-Prueba exitosa,2026-04-29,True,3,574.0
-MM17766695,Medicion,99990572,2024-11-16,VLF,Mantenimiento,Prueba exitosa,,1,VLF-Prueba exitosa,2026-04-29,True,1,184.0
-MM17841391,Medicion,288,2025-09-15,TgDelta,Mantenimiento,Riesgo Alto2,Fase 2 (Amarillo);Fase 3 (Rojo),1,TgDelta-Riesgo Alto2,2025-09-15,False,0,
-MM17841391,Medicion,289,2025-09-15,TgDelta,Mantenimiento,Riesgo Bajo,,1,TgDelta-Riesgo Bajo,2025-09-16,False,0,
-MM17841391,Medicion,294,2025-09-16,TgDelta,Mantenimiento,Riesgo Bajo,,1,TgDelta-Riesgo Bajo,2025-09-16,False,0,
-MM17841391,Medicion,293,2025-09-16,TgDelta,Mantenimiento,Riesgo Alto1,Fase 1 (Verde),1,TgDelta-Riesgo Alto1,2026-04-29,True,1,7.0
-MM18543152,Medicion,99990686,2025-02-26,TgDelta,Mantenimiento,Riesgo Alto,Fase 1 (Verde);Fase 2 (Amarillo);Fase 3 (Rojo),1,TgDelta-Riesgo Alto,2026-04-29,False,0,
-MM18543154,Medicion,99990682,2025-02-20,TgDelta,Mantenimiento,Riesgo Alto,Fase 1 (Verde);Fase 2 (Amarillo);Fase 3 (Rojo),1,TgDelta-Riesgo Alto,2026-04-29,False,0,
-MM18543903,Medicion,99990025,2022-09-07,VLF,Mantenimiento,Cayó en prueba,,2,VLF-Cayó en prueba,2023-07-07,True,5,123.0
-MM18543903,Saneamiento,P/MB23-MEMM-00055,2023-07-07,Obra,60 - Cerrada,0.0,2024-04-11 00:00:00,OD,60 - Cerrada-OD-2024-04-11,2026-04-29,True,3,193.0
-MM18552866,Medicion,99990264,2023-11-17,VLF,Mantenimiento,Cayó en prueba,Fase 3 (Rojo),1,VLF-Cayó en prueba,2026-04-29,True,1,318.0
-MM18562458,Medicion,99990752,2025-04-10,TgDelta,Mantenimiento,Riesgo Alto,Fase 1 (Verde);Fase 2 (Amarillo),1,TgDelta-Riesgo Alto,2025-05-20,False,0,
-MM18562458,Medicion,99990854,2025-05-20,TgDelta,Mantenimiento,Riesgo Alto,Fase 1 (Verde);Fase 2 (Amarillo);Fase 3 (Rojo),1,TgDelta-Riesgo Alto,2025-05-20,False,0,
-MM18562458,Medicion,99990855,2025-05-20,TgDelta,Mantenimiento,Riesgo Moderado,Fase 1 (Verde);Fase 2 (Amarillo);Fase 3 (Rojo),1,TgDelta-Riesgo Moderado,2025-05-20,False,0,
-MM18562458,Medicion,99990856,2025-05-20,TgDelta,Mantenimiento,Riesgo Moderado,Fase 1 (Verde);Fase 2 (Amarillo);Fase 3 (Rojo),1,TgDelta-Riesgo Moderado,2026-04-29,False,0,
-MM54859039,Medicion,99990740,2025-04-03,TgDelta,Mantenimiento,Riesgo Moderado,Fase 1 (Verde);Fase 2 (Amarillo);Fase 3 (Rojo),1,TgDelta-Riesgo Moderado,2025-04-03,False,0,
-MM54859039,Medicion,99990739,2025-04-03,TgDelta,Mantenimiento,Riesgo Moderado,Fase 1 (Verde);Fase 2 (Amarillo);Fase 3 (Rojo),1,TgDelta-Riesgo Moderado,2026-04-29,True,1,184.0
-MM74119073,Medicion,193,2025-08-10,VLF,Aceptación,Prueba exitosa,,1,VLF-Prueba exitosa,2026-04-29,False,0,
-MM98173543,Medicion,99990783,2025-04-17,VCC,Aceptación,Prueba exitosa,,1,VCC-Prueba exitosa,2026-04-29,False,0,
+MM999903356,Medicion,123,2025-07-10,VLF,Aceptación,Prueba exitosa,,1,VLF-Prueba exitosa,2026-04-29,False,0,
+MM999932036,Medicion,99990814,2025-04-30,TgDelta,Mantenimiento,Riesgo Moderado,Fase 1 (Verde);Fase 2 (Amarillo);Fase 3 (Rojo),1,TgDelta-Riesgo Moderado,2026-04-29,False,0,
+MM999950490,Medicion,498,2025-12-11,VLF,Aceptación,Prueba exitosa,,2,VLF-Prueba exitosa,2026-04-14,True,2,5.0
+MM999950490,Saneamiento,P/MB26-MEMM-00098,2026-04-14,Obra,60 - Cerrada,100.0,2026-04-14 00:00:00,OM,60 - Cerrada-OM-2026-04-14,2026-04-29,False,0,
+MM99990709,Medicion,99990835,2025-05-12,TgDelta,Mantenimiento,Riesgo Alto,Fase 1 (Verde);Fase 2 (Amarillo);Fase 3 (Rojo),1,TgDelta-Riesgo Alto,2025-05-15,False,0,
+MM99990709,Medicion,99990850,2025-05-15,TgDelta,Mantenimiento,Riesgo Alto,Fase 3 (Rojo),1,TgDelta-Riesgo Alto,2025-07-09,True,1,54.0
+MM99990709,Medicion,120,2025-07-09,TgDelta,Mantenimiento,Riesgo Alto1,Fase 1 (Verde);Fase 2 (Amarillo);Fase 3 (Rojo),1,TgDelta-Riesgo Alto1,2025-12-12,False,0,
+MM99990709,Saneamiento,P/MB25-MEMM-00099,2025-12-12,Obra,59 - Finalizada,100.0,2025-12-27 00:00:00,OM,59 - Finalizada-OM-2025-12-27,2025-12-22,False,0,
+MM99990709,Medicion,522,2025-12-22,VCC,Aceptación,Prueba exitosa,,1,VCC-Prueba exitosa,2026-04-29,False,0,
+MM99990963,Medicion,550,2026-01-11,TgDelta,Mantenimiento,Riesgo Bajo,,1,TgDelta-Riesgo Bajo,2026-01-11,False,0,
+MM99990963,Medicion,549,2026-01-11,TgDelta,Mantenimiento,Riesgo Alto1,Fase 1 (Verde);Fase 2 (Amarillo),1,TgDelta-Riesgo Alto1,2026-01-12,False,0,
+MM99990963,Medicion,552,2026-01-12,TgDelta,Mantenimiento,Riesgo Moderado,Fase 1 (Verde);Fase 3 (Rojo),1,TgDelta-Riesgo Moderado,2026-01-13,False,0,
+MM99990963,Medicion,554,2026-01-13,TgDelta,Mantenimiento,Riesgo Alto1,Fase 1 (Verde);Fase 2 (Amarillo),1,TgDelta-Riesgo Alto1,2026-01-23,False,0,
+MM99990963,Saneamiento,P/MB26-MEMM-00030,2026-01-23,Proyecto,Enviado a Acuerdo,0.0,,OM,Enviado a Acuerdo-OM-NaT,2026-04-29,False,0,
+MM99991657,Medicion,99990733,2025-04-02,TgDelta,Mantenimiento,Riesgo Moderado,Fase 2 (Amarillo),1,TgDelta-Riesgo Moderado,2025-04-02,False,0,
+MM99991657,Medicion,99990735,2025-04-02,TgDelta,Mantenimiento,Riesgo Moderado,Fase 3 (Rojo),1,TgDelta-Riesgo Moderado,2025-04-06,False,0,
+MM99991657,Medicion,99990743,2025-04-06,TgDelta,Mantenimiento,Riesgo Moderado,Fase 3 (Rojo),1,TgDelta-Riesgo Moderado,2026-04-29,False,0,
+MM99994909,Saneamiento,P/R124-OIMM-01751,2025-07-10,Obra,60 - Cerrada,100.0,,OM,60 - Cerrada-OM-NaT,2026-04-29,False,0,
+MM99997413,Medicion,99990519,2024-10-17,TgDelta,Mantenimiento,Riesgo Bajo,,1,TgDelta-Riesgo Bajo,2024-11-13,False,0,
+MM99997413,Saneamiento,P/R124-OIMM-02365,2024-11-13,Proyecto,Acordado,0.0,,OM,Acordado-OM-NaT,2024-11-24,True,1,10.0
+MM99997413,Medicion,99990586,2024-11-24,TgDelta,Mantenimiento,Riesgo Bajo,,1,TgDelta-Riesgo Bajo,2024-11-24,False,0,
+MM99997413,Medicion,99990585,2024-11-24,TgDelta,Mantenimiento,Riesgo Bajo,,1,TgDelta-Riesgo Bajo,2024-11-24,False,0,
+MM99997413,Medicion,99990587,2024-11-24,TgDelta,Mantenimiento,Riesgo Bajo,,1,TgDelta-Riesgo Bajo,2026-04-29,False,0,
+MM99996449,Medicion,505,2025-12-16,VCC,Aceptación,Prueba exitosa,,1,VCC-Prueba exitosa,2026-04-29,True,2,36.0
+MM99993733,Medicion,99990301,2024-02-24,VLF,Mantenimiento,Prueba exitosa,,1,VLF-Prueba exitosa,2026-04-29,True,2,721.0
+MM99991841,Medicion,99990078,2022-11-22,VLF,Mantenimiento,Prueba exitosa,,1,VLF-Prueba exitosa,2026-04-29,True,1,195.0
+MM99994697,Medicion,99990057,2022-10-24,VLF,Mantenimiento,Prueba exitosa,,1,VLF-Prueba exitosa,2026-04-29,True,3,574.0
+MM99996695,Medicion,99990572,2024-11-16,VLF,Mantenimiento,Prueba exitosa,,1,VLF-Prueba exitosa,2026-04-29,True,1,184.0
+MM99991391,Medicion,288,2025-09-15,TgDelta,Mantenimiento,Riesgo Alto2,Fase 2 (Amarillo);Fase 3 (Rojo),1,TgDelta-Riesgo Alto2,2025-09-15,False,0,
+MM99991391,Medicion,289,2025-09-15,TgDelta,Mantenimiento,Riesgo Bajo,,1,TgDelta-Riesgo Bajo,2025-09-16,False,0,
+MM99991391,Medicion,294,2025-09-16,TgDelta,Mantenimiento,Riesgo Bajo,,1,TgDelta-Riesgo Bajo,2025-09-16,False,0,
+MM99991391,Medicion,293,2025-09-16,TgDelta,Mantenimiento,Riesgo Alto1,Fase 1 (Verde),1,TgDelta-Riesgo Alto1,2026-04-29,True,1,7.0
+MM99993152,Medicion,99990686,2025-02-26,TgDelta,Mantenimiento,Riesgo Alto,Fase 1 (Verde);Fase 2 (Amarillo);Fase 3 (Rojo),1,TgDelta-Riesgo Alto,2026-04-29,False,0,
+MM99993154,Medicion,99990682,2025-02-20,TgDelta,Mantenimiento,Riesgo Alto,Fase 1 (Verde);Fase 2 (Amarillo);Fase 3 (Rojo),1,TgDelta-Riesgo Alto,2026-04-29,False,0,
+MM99993903,Medicion,99990025,2022-09-07,VLF,Mantenimiento,Cayó en prueba,,2,VLF-Cayó en prueba,2023-07-07,True,5,123.0
+MM99993903,Saneamiento,P/MB23-MEMM-00055,2023-07-07,Obra,60 - Cerrada,0.0,2024-04-11 00:00:00,OD,60 - Cerrada-OD-2024-04-11,2026-04-29,True,3,193.0
+MM99992866,Medicion,99990264,2023-11-17,VLF,Mantenimiento,Cayó en prueba,Fase 3 (Rojo),1,VLF-Cayó en prueba,2026-04-29,True,1,318.0
+MM99992458,Medicion,99990752,2025-04-10,TgDelta,Mantenimiento,Riesgo Alto,Fase 1 (Verde);Fase 2 (Amarillo),1,TgDelta-Riesgo Alto,2025-05-20,False,0,
+MM99992458,Medicion,99990854,2025-05-20,TgDelta,Mantenimiento,Riesgo Alto,Fase 1 (Verde);Fase 2 (Amarillo);Fase 3 (Rojo),1,TgDelta-Riesgo Alto,2025-05-20,False,0,
+MM99992458,Medicion,99990855,2025-05-20,TgDelta,Mantenimiento,Riesgo Moderado,Fase 1 (Verde);Fase 2 (Amarillo);Fase 3 (Rojo),1,TgDelta-Riesgo Moderado,2025-05-20,False,0,
+MM99992458,Medicion,99990856,2025-05-20,TgDelta,Mantenimiento,Riesgo Moderado,Fase 1 (Verde);Fase 2 (Amarillo);Fase 3 (Rojo),1,TgDelta-Riesgo Moderado,2026-04-29,False,0,
+MM99999039,Medicion,99990740,2025-04-03,TgDelta,Mantenimiento,Riesgo Moderado,Fase 1 (Verde);Fase 2 (Amarillo);Fase 3 (Rojo),1,TgDelta-Riesgo Moderado,2025-04-03,False,0,
+MM99999039,Medicion,99990739,2025-04-03,TgDelta,Mantenimiento,Riesgo Moderado,Fase 1 (Verde);Fase 2 (Amarillo);Fase 3 (Rojo),1,TgDelta-Riesgo Moderado,2026-04-29,True,1,184.0
+MM99999073,Medicion,193,2025-08-10,VLF,Aceptación,Prueba exitosa,,1,VLF-Prueba exitosa,2026-04-29,False,0,
+MM99993543,Medicion,99990783,2025-04-17,VCC,Aceptación,Prueba exitosa,,1,VCC-Prueba exitosa,2026-04-29,False,0,
